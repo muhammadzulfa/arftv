@@ -1,158 +1,286 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
-#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan (Indonesian Subs) (576p) [Geo-blocked]
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu (720p)
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-country="ID" tvg-language="Indonesian;English" tvg-logo="https://i.imgur.com/GIGcX5K.png" group-title="News",BeritaSatu World (540p) [Not 24/7]
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Business",CNBC Indonesia (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia (720p)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="General",GTV (720p)
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-#EXTINF:-1 tvg-id="Hits.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="",Hits (720p) [Not 24/7]
-https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#EXTINF:-1 tvg-id="HitsMovies.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",Hits Movies (720p) [Not 24/7]
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#EXTINF:-1 tvg-id="IAMCHANNEL.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png" group-title="Religious",I AM CHANNEL (576p) [Not 24/7]
-http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1 tvg-id="IndonesiaChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="",Indonesia Channel (720p) [Not 24/7]
-http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_78.png" group-title="General",Indosiar [Geo-blocked]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
-#EXTINF:-1 tvg-id="iNews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png" group-title="News",iNews (720p)
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="News",Kompas TV [Geo-blocked]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/874-kompas-tv
-#EXTINF:-1 tvg-id="MetalTV.ru" tvg-country="INT" tvg-language="Catalan;Arabic;Pashto;English;Albanian;Armenian;Portuguese;Spanish;German;Dutch;Swedish;Azerbaijani;Bosnian;Bengali;French;Bulgarian;Malay;Dzongkha;Norwegian;Belarusian;Chinese;Greek;Czech;Danish;Estonian;Tigrinya;Amharic;Finnish;Faroese;Georgian;Greenlandic;Croatian;Hungarian;Indonesian;Irish;Hebrew;Hindi;Persian;Icelandic;Italian;Japanese;Kirghiz;Khmer;Korean;Kazakh;Lao;Sinhala;Lithuanian;Latvian;Romanian;Serbian;Macedonian;Burmese;Mongolian;Maltese;Dhivehi;Nepali;Polish;Russian;Kinyarwanda;Slovenian;Slovak;Somali;Thai;Tajik;Turkmen;Turkish;Swahili;Ukrainian;Uzbek;Vietnamese;Bislama;Samoan;Afrikaans" tvg-logo="" group-title="Music",Metal TV (720p) [Not 24/7]
-https://v2.catcast.tv/content/33816/index.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040416.png" group-title="News",Metro TV (160p)
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="General",MNCTV (720p)
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
-#EXTINF:-1 tvg-id="MyTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="",MyTV (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
-#EXTINF:-1 tvg-id="NetTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="General",Net. TV [Geo-blocked]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/875-net-tv
-#EXTINF:-1 tvg-id="OChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="Local",O Channel [Geo-blocked]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/206-ochannel
-#EXTINF:-1 tvg-id="OneTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="",One TV (720p) [Not 24/7]
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:-1 tvg-id="Radio51TV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="Logo N/A" group-title="",Radio 51 TV (480p) [Geo-blocked]
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="General",RCTI (720p)
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-#EXTINF:-1 tvg-id="Reformed21.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Religious",Reformed 21 (540p)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1 tvg-id="RRINet.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="",RRI Net (1080p) [Not 24/7]
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-id="RTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="General",RTV [Geo-blocked]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
-#EXTINF:-1 tvg-id="SCTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_89.png" group-title="General",SCTV (480p) [Not 24/7]
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#EXTINF:-1 tvg-id="TransTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="General",Trans TV (720p)
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png" group-title="General",Trans7 (720p) [Not 24/7]
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKU.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="",TVKU (720p) [Not 24/7]
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenBadanAnggaran.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Badan Anggaran [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambanggar/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenBadanLegislatif.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Badan Legislatif (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambaleg/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenBadanMusyawarah.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Badan Musyawarah [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambamus/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenBAKN.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen BAKN [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambakn/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenBKSAP.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen BKSAP [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambksap/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi I (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiII.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi II (1080p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiIII.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi III (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiIV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi IV (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiIX.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi IX (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi V (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiVI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi VI (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiVII.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi VII (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiVIII.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi VIII (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiX.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi X (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemenKomisiXI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Legislative",TVR Parlemen Komisi XI (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Aceh (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBali.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Bali (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Bangka Belitung (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBengkulu.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Bengkulu (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIDKIJakarta.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI DKI Jakarta (720p) [Not 24/7]
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIGorontalo.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Gorontalo (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIJambi.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Jambi (720p) [Not 24/7]
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIJawaBarat.id" tvg-country="ID" tvg-language="Indonesian;Javanese;Sundanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Jawa Barat (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIJawaTengah.id" tvg-country="ID" tvg-language="Indonesian;Javanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Jawa Tengah (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIJawaTimur.id" tvg-country="ID" tvg-language="Indonesian;Javanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Jawa Timur (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIKalimantanBarat.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Kalimantan Barat (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIKalimantanSelatan.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Kalimantan Selatan (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIKalimantanTengah.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Kalimantan Tengah (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIKalimantanTimur.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Kalimantan Timur (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRILampung.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Lampung (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIMaluku.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Maluku (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="General",TVRI Nasional (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRINusaTenggaraBarat.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Nusa Tenggara Barat (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-#EXTINF:-1 tvg-id="TVRINusaTenggaraTimur.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Nusa Tenggara Timur (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIPapua.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Papua (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIRiau.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Riau (720p) [Not 24/7]
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-country="ID" tvg-language="Indonesian;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Sports",TVRI Sport HD (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISulawesiBarat.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Sulawesi Barat (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISulawesiSelatan.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Sulawesi Selatan (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISulawesiTengah.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Sulawesi Tengah (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISulawesiTenggara.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Sulawesi Tenggara (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISulawesiUtara.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Sulawesi Utara (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISumateraBarat.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Sumatera Barat (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISumateraSelatan.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Sumatera Selatan (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISumateraUtara.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Sumatera Utara (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-country="ID" tvg-language="Indonesian;Javanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI World (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIYogyakarta.id" tvg-country="ID" tvg-language="Indonesian;Javanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI Yogyakarta (720p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-
+#EXTINF:-1,A&E
+http://rec2.distv.net:80/plinio/123/113
+#EXTINF:-1,AMC
+http://rec2.distv.net:80/plinio/123/223
+#EXTINF:-1,ANIMAL PLANET
+http://rec2.distv.net:80/plinio/123/114
+#EXTINF:-1,ARTE 1
+http://rec2.distv.net:80/plinio/123/115
+#EXTINF:-1,AXN
+http://rec2.distv.net:80/plinio/123/116
+#EXTINF:-1,BABY TV
+http://rec2.distv.net:80/plinio/123/117
+#EXTINF:-1,BAND
+http://rec2.distv.net:80/plinio/123/224
+#EXTINF:-1,BAND NEWS
+http://rec2.distv.net:80/plinio/123/118
+#EXTINF:-1,BAND SPORTS
+http://rec2.distv.net:80/plinio/123/119
+#EXTINF:-1,BIS
+http://rec2.distv.net:80/plinio/123/120
+#EXTINF:-1,BOOMERANG
+http://rec2.distv.net:80/plinio/123/121
+#EXTINF:-1,CANAL BRASIL
+http://rec2.distv.net:80/plinio/123/122
+#EXTINF:-1,CANAL SONY
+http://rec2.distv.net:80/plinio/123/123
+#EXTINF:-1,CANÇÃO NOVA
+http://rec2.distv.net:80/plinio/123/65
+#EXTINF:-1,CARTOON NETWORK
+http://rec2.distv.net:80/plinio/123/124
+#EXTINF:-1,CINE SKY 01
+http://rec2.distv.net:80/plinio/123/48
+#EXTINF:-1,CINE SKY 02
+http://rec2.distv.net:80/plinio/123/49
+#EXTINF:-1,CINE SKY 03
+http://rec2.distv.net:80/plinio/123/50
+#EXTINF:-1,CINE SKY 04
+http://rec2.distv.net:80/plinio/123/51
+#EXTINF:-1,CINE SKY 05
+http://rec2.distv.net:80/plinio/123/52
+#EXTINF:-1,CINE SKY 06
+http://rec2.distv.net:80/plinio/123/53
+#EXTINF:-1,CINE SKY 07
+http://rec2.distv.net:80/plinio/123/54
+#EXTINF:-1,CINE SKY 08
+http://rec2.distv.net:80/plinio/123/55
+#EXTINF:-1,CINE SKY 09
+http://rec2.distv.net:80/plinio/123/56
+#EXTINF:-1,CINE SKY 10
+http://rec2.distv.net:80/plinio/123/57
+#EXTINF:-1,CINEMAX
+http://rec2.distv.net:80/plinio/123/125
+#EXTINF:-1,CNN BRASIL
+http://rec2.distv.net:80/plinio/123/225
+#EXTINF:-1,COMBATE
+http://rec2.distv.net:80/plinio/123/126
+#EXTINF:-1,COMEDY CENTRAL
+http://rec2.distv.net:80/plinio/123/127
+#EXTINF:-1,CULTURA
+http://rec2.distv.net:80/plinio/123/128
+#EXTINF:-1,CURTA
+http://rec2.distv.net:80/plinio/123/129
+#EXTINF:-1,DAZN
+http://rec2.distv.net:80/plinio/123/226
+#EXTINF:-1,DISCOVERY CHANNEL
+http://rec2.distv.net:80/plinio/123/130
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://rec2.distv.net:80/plinio/123/131
+#EXTINF:-1,DISCOVERY ID
+http://rec2.distv.net:80/plinio/123/132
+#EXTINF:-1,DISCOVERY KIDS
+http://rec2.distv.net:80/plinio/123/133
+#EXTINF:-1,DISCOVERY SCIENCE
+http://rec2.distv.net:80/plinio/123/134
+#EXTINF:-1,DISCOVERY THEATER
+http://rec2.distv.net:80/plinio/123/135
+#EXTINF:-1,DISCOVERY TURBO
+http://rec2.distv.net:80/plinio/123/136
+#EXTINF:-1,DISCOVERY WORLD
+http://rec2.distv.net:80/plinio/123/137
+#EXTINF:-1,DISNEY CHANNEL
+http://rec2.distv.net:80/plinio/123/138
+#EXTINF:-1,DISNEY JR
+http://rec2.distv.net:80/plinio/123/139
+#EXTINF:-1,DISNEY XD
+http://rec2.distv.net:80/plinio/123/140
+#EXTINF:-1,E!
+http://rec2.distv.net:80/plinio/123/141
+#EXTINF:-1,ESPN
+http://rec2.distv.net:80/plinio/123/142
+#EXTINF:-1,ESPN 2
+http://rec2.distv.net:80/plinio/123/143
+#EXTINF:-1,ESPN BRASIL
+http://rec2.distv.net:80/plinio/123/144
+#EXTINF:-1,ESPN EXTRA
+http://rec2.distv.net:80/plinio/123/145
+#EXTINF:-1,FILMS & ARTS
+http://rec2.distv.net:80/plinio/123/227
+#EXTINF:-1,FISH TV
+http://rec2.distv.net:80/plinio/123/146
+#EXTINF:-1,FOOD NETWORK
+http://rec2.distv.net:80/plinio/123/147
+#EXTINF:-1,FOX
+http://rec2.distv.net:80/plinio/123/148
+#EXTINF:-1,FOX LIFE
+http://rec2.distv.net:80/plinio/123/149
+#EXTINF:-1,FOX PREMIUM 1
+http://rec2.distv.net:80/plinio/123/150
+#EXTINF:-1,FOX PREMIUM 2
+http://rec2.distv.net:80/plinio/123/151
+#EXTINF:-1,FOX SPORTS
+http://rec2.distv.net:80/plinio/123/152
+#EXTINF:-1,FOX SPORTS 2
+http://rec2.distv.net:80/plinio/123/153
+#EXTINF:-1,FUTURA
+http://rec2.distv.net:80/plinio/123/228
+#EXTINF:-1,FX
+http://rec2.distv.net:80/plinio/123/229
+#EXTINF:-1,GAZETA
+http://rec2.distv.net:80/plinio/123/230
+#EXTINF:-1,GLOBO
+http://rec2.distv.net:80/plinio/123/231
+#EXTINF:-1,GLOBO BRASILIA HD
+http://rec2.distv.net:80/plinio/123/3
+#EXTINF:-1,GLOBO CEARA HD
+http://rec2.distv.net:80/plinio/123/4
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD
+http://rec2.distv.net:80/plinio/123/5
+#EXTINF:-1,GLOBO MINAS HD
+http://rec2.distv.net:80/plinio/123/6
+#EXTINF:-1,GLOBO NATAL HD
+http://rec2.distv.net:80/plinio/123/7
+#EXTINF:-1,GLOBO NEWS
+http://rec2.distv.net:80/plinio/123/232
+#EXTINF:-1,GLOBO REDE AMAZÔNICA HD
+http://rec2.distv.net:80/plinio/123/11
+#EXTINF:-1,GLOBO RIO HD
+http://rec2.distv.net:80/plinio/123/13
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://rec2.distv.net:80/plinio/123/14
+#EXTINF:-1,GLOBO SP HD
+http://rec2.distv.net:80/plinio/123/15
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
+http://rec2.distv.net:80/plinio/123/16
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://rec2.distv.net:80/plinio/123/17
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://rec2.distv.net:80/plinio/123/18
+#EXTINF:-1,GLOBO TV MIRANTE HD (MA)
+http://rec2.distv.net:80/plinio/123/19
+#EXTINF:-1,GLOOB
+http://rec2.distv.net:80/plinio/123/154
+#EXTINF:-1,GLOOBINHO
+http://rec2.distv.net:80/plinio/123/215
+#EXTINF:-1,GNT
+http://rec2.distv.net:80/plinio/123/155
+#EXTINF:-1,HBO
+http://rec2.distv.net:80/plinio/123/156
+#EXTINF:-1,HBO 2
+http://rec2.distv.net:80/plinio/123/157
+#EXTINF:-1,HBO FAMILY
+http://rec2.distv.net:80/plinio/123/158
+#EXTINF:-1,HBO MUNDI
+http://rec2.distv.net:80/plinio/123/159
+#EXTINF:-1,HBO PLUS
+http://rec2.distv.net:80/plinio/123/160
+#EXTINF:-1,HBO POP
+http://rec2.distv.net:80/plinio/123/161
+#EXTINF:-1,HBO SIGNATURE
+http://rec2.distv.net:80/plinio/123/162
+#EXTINF:-1,HBO XTREME
+http://rec2.distv.net:80/plinio/123/163
+#EXTINF:-1,HGTV
+http://rec2.distv.net:80/plinio/123/164
+#EXTINF:-1,HISTORY
+http://rec2.distv.net:80/plinio/123/165
+#EXTINF:-1,HISTORY 2
+http://rec2.distv.net:80/plinio/123/166
+#EXTINF:-1,LIFE TIME
+http://rec2.distv.net:80/plinio/123/167
+#EXTINF:-1,LIKE
+http://rec2.distv.net:80/plinio/123/233
+#EXTINF:-1,MAIS GLOBOSAT
+http://rec2.distv.net:80/plinio/123/235
+#EXTINF:-1,MEGAPIX
+http://rec2.distv.net:80/plinio/123/168
+#EXTINF:-1,MTV
+http://rec2.distv.net:80/plinio/123/169
+#EXTINF:-1,MTV LIVE
+http://rec2.distv.net:80/plinio/123/236
+#EXTINF:-1,MULTISHOW
+http://rec2.distv.net:80/plinio/123/170
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://rec2.distv.net:80/plinio/123/171
+#EXTINF:-1,NAT GEO
+http://rec2.distv.net:80/plinio/123/172
+#EXTINF:-1,NAT GEO KIDS
+http://rec2.distv.net:80/plinio/123/173
+#EXTINF:-1,NAT GEO WILD
+http://rec2.distv.net:80/plinio/123/174
+#EXTINF:-1,NICK
+http://rec2.distv.net:80/plinio/123/175
+#EXTINF:-1,NICK JR
+http://rec2.distv.net:80/plinio/123/176
+#EXTINF:-1,OFF
+http://rec2.distv.net:80/plinio/123/177
+#EXTINF:-1,PARAMOUNT
+http://rec2.distv.net:80/plinio/123/178
+#EXTINF:-1,PLAY KIDS
+http://rec2.distv.net:80/plinio/123/216
+#EXTINF:-1,PREMIERE 2
+http://rec2.distv.net:80/plinio/123/179
+#EXTINF:-1,PREMIERE 3
+http://rec2.distv.net:80/plinio/123/180
+#EXTINF:-1,PREMIERE 4
+http://rec2.distv.net:80/plinio/123/181
+#EXTINF:-1,PREMIERE 5
+http://rec2.distv.net:80/plinio/123/182
+#EXTINF:-1,PREMIERE 6
+http://rec2.distv.net:80/plinio/123/183
+#EXTINF:-1,PREMIERE 7
+http://rec2.distv.net:80/plinio/123/237
+#EXTINF:-1,PREMIERE CLUBES
+http://rec2.distv.net:80/plinio/123/184
+#EXTINF:-1,PRIME BOX BRAZIL
+http://rec2.distv.net:80/plinio/123/185
+#EXTINF:-1,RECORD BAHIA
+http://rec2.distv.net:80/plinio/123/23
+#EXTINF:-1,RECORD BRASILIA
+http://rec2.distv.net:80/plinio/123/25
+#EXTINF:-1,RECORD NEWS
+http://rec2.distv.net:80/plinio/123/28
+#EXTINF:-1,RECORD PARA
+http://rec2.distv.net:80/plinio/123/30
+#EXTINF:-1,RECORD RIO
+http://rec2.distv.net:80/plinio/123/31
+#EXTINF:-1,RECORD MG
+http://rec2.distv.net:80/plinio/123/32
+#EXTINF:-1,REDE TV
+http://rec2.distv.net:80/plinio/123/69
+#EXTINF:-1,SBT
+http://rec2.distv.net:80/plinio/123/238
+#EXTINF:-1,SMITHSONIAN
+http://rec2.distv.net:80/plinio/123/239
+#EXTINF:-1,SPACE
+http://rec2.distv.net:80/plinio/123/187
+#EXTINF:-1,SPORTV
+http://rec2.distv.net:80/plinio/123/188
+#EXTINF:-1,SPORTV 2
+http://rec2.distv.net:80/plinio/123/189
+#EXTINF:-1,SPORTV 3
+http://rec2.distv.net:80/plinio/123/190
+#EXTINF:-1,STUDIO UNIVERSAL
+http://rec2.distv.net:80/plinio/123/191
+#EXTINF:-1,SYFY
+http://rec2.distv.net:80/plinio/123/192
+#EXTINF:-1,TBS
+http://rec2.distv.net:80/plinio/123/193
+#EXTINF:-1,TELECINE ACTION
+http://rec2.distv.net:80/plinio/123/194
+#EXTINF:-1,TELECINE CULT
+http://rec2.distv.net:80/plinio/123/195
+#EXTINF:-1,TELECINE FUN
+http://rec2.distv.net:80/plinio/123/196
+#EXTINF:-1,TELECINE PIPOCA
+http://rec2.distv.net:80/plinio/123/197
+#EXTINF:-1,TELECINE PREMIUM
+http://rec2.distv.net:80/plinio/123/198
+#EXTINF:-1,TELECINE TOUCH
+http://rec2.distv.net:80/plinio/123/199
+#EXTINF:-1,TLC
+http://rec2.distv.net:80/plinio/123/200
+#EXTINF:-1,TNT
+http://rec2.distv.net:80/plinio/123/201
+#EXTINF:-1,TV BRASIL
+http://rec2.distv.net:80/plinio/123/241
+#EXTINF:-1,TV CIDADE-CARIRI CE
+http://rec2.distv.net:80/plinio/123/94
+#EXTINF:-1,TV NOVO TEMPO
+http://rec2.distv.net:80/plinio/123/242
+#EXTINF:-1,TV PAI ETERNO
+http://rec2.distv.net:80/plinio/123/103
+#EXTINF:-1,TV RA TIM BUM
+http://rec2.distv.net:80/plinio/123/204
+#EXTINF:-1,ZOOMOO
+http://rec2.distv.net:80/plinio/123/244
