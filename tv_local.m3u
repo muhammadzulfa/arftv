@@ -13,3 +13,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 
 #EXTINF:-1 group-title="TV LOKAL", MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
+#EXTINF:60,INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:60,SCTV HD
+http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
